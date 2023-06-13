@@ -1,0 +1,10 @@
+* trivial-lazy
+
+Trivial lazy macros and functions for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/dsorokin/trivial-lazy.git   |
+| commit  | b5f75bd  |
+| systems | trivial-lazy |
+|---------+-------------------------------------------|
+
